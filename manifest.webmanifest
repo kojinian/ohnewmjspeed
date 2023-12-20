@@ -1,12 +1,12 @@
 {
-    "name": "NetwebSpeed",
-    "short_name": "NetwebSpeed",
+    "name": "网络面板",
+    "short_name": "网络面板",
     "start_url": "/",
     "display": "standalone",
     "background_color": "#ffffff",
     "lang": "zh-CN",
     "scope": "/",
-    "description": "NetwebSpeed在线流量消耗器，测试网速，监测网络环境，提供测试节点",
+    "description": "网络面板(NetworkPanel)是一个在线流量消耗器，可以测试您的网速，监测您的网络环境，提供丰富测试节点，并且长期维护更新",
     "icons": [
         {
             "src": "./icon.png",
